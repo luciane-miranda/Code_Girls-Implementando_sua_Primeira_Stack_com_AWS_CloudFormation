@@ -1,9 +1,11 @@
 # Code_Girls-Implementando_sua_Primeira_Stack_com_AWS_CloudFormation
-Desafio do Curso da DIO: Santander Code Girls - 2025, Módulo mplementando sua Primeira Stack com AWS CloudFormation
+Desafio do Curso da DIO: Santander Code Girls - 2025, Módulo Implementando sua Primeira Stack com AWS CloudFormation
+
+Este repositório contém a anotações e insights adquiridos durante a as aulas e atividades do curso.
 
 ---
 
-## Objetivo
+## Objetivo do Desafio
 
 - Aplicar os conceitos aprendidos em um ambiente prático; 
 - Documentar processos técnicos de forma clara e estruturada;
@@ -52,5 +54,12 @@ Desafio do Curso da DIO: Santander Code Girls - 2025, Módulo mplementando sua P
 
 ---
 
-## Estrutura do Repositório
+## Aprendizados e Insights
+
+- Ajuda a automatizar o processo de criação, configuração e gerenciamento da infraestrutura a partir de templates criados.
+- Consistência e padrão de infraestrutura.
+- Economia de custos por utilizar uma mesma infraestrutura em diversos ambientes.
+- Garante que os recursos vão compartilhar dos padrões de segurança já criados.
+
+> *Desenvolvido por Luciane Silva de Miranda como parte do desafio de projeto Implementando sua Primeira Stack com AWS CloudFormation*
 
